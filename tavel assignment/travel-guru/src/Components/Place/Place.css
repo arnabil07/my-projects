@@ -1,0 +1,26 @@
+.item{
+    display: inline-block;
+    width: 240px;
+    height: 415px;
+    border-radius: 20px;
+    margin:5px;
+    cursor: pointer;
+    border: 4px solid yellow; 
+    overflow: hidden; 
+}
+    
+.single-title{
+    margin-left: 22px;
+    margin-top:300px;
+    font-size: 36px;
+    line-height: 43px;
+    color: white;
+}
+.div-img{
+    width: 240px;
+    height: 410px;
+    overflow: hidden;
+    background-position: center;
+    background-size: 100% 100%;
+     background-size: cover;
+}

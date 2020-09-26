@@ -1,0 +1,12 @@
+
+.nav-item a{
+    color: #fa983a;
+    padding: 7px 40px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    margin-right: 3px;
+}
+.nav-item a:hover {
+    background-color: #f6b93b;
+    color: white;
+}
