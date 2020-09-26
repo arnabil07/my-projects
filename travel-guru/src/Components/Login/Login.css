@@ -1,0 +1,39 @@
+.login-bg-color{
+    min-height: 760Px;;
+   
+}
+
+.login-form input{
+    border:none;
+    border-bottom: 1px solid #ABABAB;
+}
+.btn-width{
+    width:95%;
+}
+.social-btn{
+    width:95%;
+    background: white;
+    border: 1px solid lightgrey;
+    box-sizing: border-box;
+    border-radius: 57px;
+    cursor: pointer;
+}
+.social-img{
+    width:25px;
+}
+.social-login{
+    margin-left:30%;
+    width: 45%;
+}
+.login-tag{
+    cursor: pointer;
+    text-decoration: underline;
+     width: 40%;
+}
+.login-form{
+    border:1px solid lightgrey;
+    border-radius:5px;
+    margin-left:30%;
+    margin-top:5%;
+    width: 46%;
+}

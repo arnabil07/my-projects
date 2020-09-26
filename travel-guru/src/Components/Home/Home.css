@@ -1,0 +1,23 @@
+.left-side{
+    margin-left:10%;
+    width: 30%;
+}
+.right-side{
+    width:60%;
+  
+}
+.title{
+    font-size: 60px;
+    line-height: 117px;
+    color: white;
+}
+ 
+.booking-font{
+    font-size: 16px;
+    line-height: 24px;
+    color:  white;
+}
+/* .bg-image{
+    background-image: url(../../images/Image/Rectangle\ 1.png);
+    height: 800px;
+} */
